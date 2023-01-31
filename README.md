@@ -4,8 +4,6 @@ As an asynchronous event-driven JavaScript runtime, Node.js is designed to build
 
 <!-- Badges and tools required -->
 [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/ttps://nodejs.org/en/)
-
 
 <!-- Table of content -->
 ## TABLE OF CONTENT
