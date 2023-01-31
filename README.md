@@ -309,7 +309,7 @@ true
 > The emit method triggers the on method which then invokes the handleEvent callback function.
 </section>
 <!-- Event loop ends -->
-
+<hr>
 <!-- Globals section -->
 <section id="globals">
 
@@ -330,7 +330,7 @@ console.log(global)
 ```
 </section>
 <!-- Globals section ends -->
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <a href="https://codesandbox.com/https://codepen.io/shanekolkoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codepen.io/shanekolkoto" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shane-morne-kolkoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shane-morne-kolkoto" height="30" width="40" /></a>
