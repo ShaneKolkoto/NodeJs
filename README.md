@@ -1,5 +1,5 @@
 # How to build CRUD System with Nodejs
-<a href="https://nodejs.org/en/"><img src="./imgs/nodejs.jpg" style="width: 100%; height: 160px"></img></a>
+<a href="https://nodejs.org/en/"><img src="https://github.com/ShaneKolkoto/NodeJs/blob/main/imgs/nodejs.jpg" style="width: 100%; height: 160px"></img></a>
 
 
 <h3 align="left">Connect with me:</h3>
