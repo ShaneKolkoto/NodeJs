@@ -1,0 +1,15 @@
+{
+  "name": "first_server",
+  "version": "1.0.0",
+  "description": "Set up as a server, so when you accesses the computer on port 8080, the ```Hello World!``` message will print",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node first.js"
+  },
+  "author": "Shane Morne Kolkoto <shanekolkoto@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
