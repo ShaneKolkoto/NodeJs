@@ -17,6 +17,8 @@ As an asynchronous event-driven JavaScript runtime, Node.js is designed to build
         - [Synchronous](#sync) 
 3. [Event Loop](#event_loop)
 4. [Globals](#globals)
+5. [Build NodeJs Project](https://github.com/ShaneKolkoto/NodeJs/tree/nodejs_build)
+6. [Crud System NodeJS](https://github.com/ShaneKolkoto/NodeJs/tree/crud_example)
 
 
 <section id="what_is_node">
